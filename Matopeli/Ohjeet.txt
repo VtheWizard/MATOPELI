@@ -1,0 +1,7 @@
+Matopeli
+
+	-liiku W, A, S ja D näppäimillä
+	-peli päättyy kun; osut seinään, syöt ittes tai käännyt
+	 menosuuntaa vastakkaiseen suuntaan
+	-pelin päätyttyä sulje ohjelma ja aukaise se uudelleen
+	 aloittaaksesi uuden pelin
